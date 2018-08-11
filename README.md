@@ -1,7 +1,7 @@
 # lotteryhistorygrabber
 ![通过测试](https://img.shields.io/badge/build-passing-green.svg)
 ![python3.5.2](https://img.shields.io/badge/python-3.5.2-blue.svg)
-![最后更新于2018/08/11](https://img.shields.io/badge/update-20180811-blue.svg)
+![最后更新于2018/08/11](https://img.shields.io/badge/update-2018.08.11-blue.svg)
 
 >一个爬取双色球彩票开奖历史数据的脚本。<br>
 >A script that automatically crawls the old data of ShuangSeQiu lottery.
